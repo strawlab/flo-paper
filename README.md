@@ -1,3 +1,3 @@
-# flo-paper
+# Moved
 
-This is a placeholder page. This repository will be updated with design files, build and usage instructions, and source code upon publication.
+Please go to https://github.com/strawlab/flo
